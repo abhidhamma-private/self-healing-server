@@ -1,0 +1,9 @@
+{
+  "name": "self-healing-server",
+  "version": "1.0.0",
+  "description": "Postgresql with Graphql",
+  "main": "index.js",
+  "repository": "https://github.com/abhidhamma/self-healing-server.git",
+  "author": "hanji",
+  "license": "MIT"
+}
